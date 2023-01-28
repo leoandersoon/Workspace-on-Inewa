@@ -3,15 +3,17 @@ This repo contains the contents to contrubute the workspace of Inewa.
 
 # Q&A w/ChatGPT
 -What do you think about Inewa, that recycling automat?
+<br>
 -I am not aware of any specific recycling automat called Inewa. However, I understand that recycling automats are usually complex systems that include various components such as sensors, storage, and control units, communication module, payment module and display. The success of a recycling automat like this would depend on a number of factors, including the design and functionality of the system, the reliability and durability of the components, and the user experience.
 
 It also depends on how well it is maintained and how often it is serviced. The automat should be placed in a proper location which is convenient for the users to use it and also the cost of the materials being recycled should be considered.
 
 In general, recycling automats can be a valuable tool for reducing waste and promoting recycling, but the success of a specific product would depend on the details of its design and implementation.
 
-
+<hr>
 
 -What Arduino modules can I use to build a recycling automat that takes recycable materials in itself by the user, storing them, and categorising them. And finally, paying off the users by the material's category?
+<br>
 -To build a recycling automat using an Arduino, you will need several modules:
 
    A sensor module to detect the type of material being deposited. This could be a weight sensor, a color sensor, or a combination of both.
@@ -32,8 +34,10 @@ In general, recycling automats can be a valuable tool for reducing waste and pro
 
 It is a complex system and you may also need other modules or equipment depending on the specific design of your recycling automat. You may also require additional software development in order to communicate with the central system and to control the automat.
 
+<hr>
 
 -What do I need to connect my Arduino microcontroller to WiFi
+<br>
 -To connect your Arduino microcontroller to WiFi, you will need the following components:
 
    An Arduino board that has built-in WiFi capabilities or an Arduino board that can support an external WiFi module.
@@ -52,9 +56,10 @@ Additionally, you may need to configure your router to provide the necessary cre
 
 It's important to mention that the specific steps and code required to connect the Arduino to WiFi will depend on the type of WiFi module you are using and the specific details of your network. You may want to refer to the documentation for your specific module and consult online resources for guidance.
 
-
+<hr>
 
 -Can you write a C++ code to take number inputs from the user and categorise them. And finally, award the user accoring to the number's category
+<br>
 -Sure, here is a sample C++ code that takes number inputs from the user and categorizes them:
 
 ```
